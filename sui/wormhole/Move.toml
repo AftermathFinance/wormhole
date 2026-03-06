@@ -1,9 +1,10 @@
 [package]
 name = "Wormhole"
 version = "0.2.0"
+published-at = "0xd5afd4e456e5451f1ca1e7b3d734ce7a0a3b397811a6cb72a4bd1dfc387839f2"
 
 [addresses]
-wormhole = "_"
+wormhole = "0xd5afd4e456e5451f1ca1e7b3d734ce7a0a3b397811a6cb72a4bd1dfc387839f2"
 
 [dev-addresses]
-wormhole = "0x100"
+wormhole = "0xd5afd4e456e5451f1ca1e7b3d734ce7a0a3b397811a6cb72a4bd1dfc387839f2"
